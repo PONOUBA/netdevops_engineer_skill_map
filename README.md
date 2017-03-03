@@ -16,4 +16,4 @@ Markdown编码约束
 
 "###"为三级标题, 以此类推
 
-![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/netdevops_engineer_skill_map_1_1.png)
+![](http://7xnzbp.com1.z0.glb.clouddn.com/wp-content-uploads/2017/03/netdevops_engineer_skill_map_1_1.jpg)
