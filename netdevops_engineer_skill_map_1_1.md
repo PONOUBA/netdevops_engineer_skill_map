@@ -99,6 +99,13 @@
 
 ### saltstack
 
+### Robot Framework
+
+### Elasticsearch
+
+### Gitlab
+
+### Jenkins
 
 -------------------------------------------------------------
 ##7 编程
@@ -119,10 +126,16 @@
 #### XML
 #### Raml
 #### Yang
+##### IETF YANG models
+##### OpenConfig YANG models
+##### Vendor proprietory YANG models
+#### GPB/protobufs
 
 ### 编辑器
 #### vi
 #### vim
+#### VS Code
+#### ATOM
 
 ### Linux编程基础
 #### Bash
@@ -137,4 +150,3 @@
 ### Git
 
 ### SVN
-
